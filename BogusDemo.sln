@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BogusDemo", "BogusDemo\BogusDemo.csproj", "{6603023E-D34B-4BB9-946E-95C32C2CFE4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6603023E-D34B-4BB9-946E-95C32C2CFE4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6603023E-D34B-4BB9-946E-95C32C2CFE4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6603023E-D34B-4BB9-946E-95C32C2CFE4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6603023E-D34B-4BB9-946E-95C32C2CFE4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05CD5E4F-EF33-4A0A-8B44-BBB4C2C6EA36}
+	EndGlobalSection
+EndGlobal
